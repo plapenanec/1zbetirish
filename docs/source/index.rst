@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+ZBET – TRANG CÁ ĐỘ BÓNG ĐÁ ONLINE UY TÍN 2025
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`ZBET <https://zbet.irish/>`_ là TRANG CÁ ĐỘ BÓNG ĐÁ ONLINE UY TÍN 2025, được cộng đồng game thủ đánh giá cao nhờ vào sự đa dạng trong kho game, tỷ lệ trả thưởng hấp dẫn, và các chính sách ưu đãi hấp dẫn. Được xây dựng hợp pháp và được cấp phép bởi Tập đoàn Curacao và PAGCOR, ZBET đảm bảo một nền tảng cá cược uy tín và an toàn. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Người chơi có thể tận hưởng nhiều trò chơi từ cá cược thể thao, casino trực tuyến, thể thao điện tử, đến xổ số, với hệ thống giao dịch nạp/rút tiền nhanh chóng và tiện lợi. Với sự linh hoạt trong các phương thức thanh toán và dịch vụ hỗ trợ tận tâm, ZBET là lựa chọn lý tưởng cho những ai muốn tìm kiếm trải nghiệm cá cược chất lượng.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 2742A Đ. Phạm Thế Hiển, Phường 7, Quận 8, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0903157427. 
 
-.. toctree::
+Email: info@zbet.irish. 
 
-   usage
-   api
+Website: https://zbet.irish/ 
+
+zbet #nhà_cái_zbet #link_vào_zbet
